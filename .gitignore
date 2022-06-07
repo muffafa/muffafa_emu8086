@@ -1,5 +1,7 @@
 ignorefiles/
 pdfs/
+videos/
+
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
